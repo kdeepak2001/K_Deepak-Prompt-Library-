@@ -60,11 +60,3 @@ Add example outputs for each prompt.
 👤 Created by: K Deepak
 💬 Contributions, feedback, and suggestions are always welcome!
 
-## ✨ With this version:  
-- The **folder structure** is detailed with **icons & categories**.  
-- It has **sections for usage, features, contributions, and future plans** → looks more professional.  
-- You can copy-paste directly into your `README.md` file.
-  
-Would you like me to also **create a sample set of prompts** (with realistic text in `.txt`/`.md`) and **placeholder images** so your repo doesn’t look empty when you first push it?
-
-
