@@ -1,0 +1,9 @@
+1) You are a customer-support assistant. A user asks about tracking an order placed two weeks ago. Draft a polite response outlining next steps.
+
+2) Act as a friendly tutor explaining the Pythagorean theorem to a high-school student with examples.
+
+3) Simulate a brainstorming partner for marketing slogans targeting environmentally conscious consumers.
+
+4) Role-play as a hiring manager conducting an initial phone screen for a junior Python developer.
+
+5) You are an empathetic listener helping a user who feels overwhelmed by project deadlines. Provide encouragement and time-management tips.

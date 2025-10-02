@@ -1,0 +1,10 @@
+1) Given a CSV of monthly sales, suggest three visualizations to identify seasonality and write the matplotlib code.
+
+2) Analyze this JSON dataset of customer reviews; summarize the top five recurring themes with counts.
+
+3) Explain how to preprocess text data for sentiment analysis, including tokenization, stop-word removal, and vectorization.
+
+4) Write a SQL query to calculate the rolling 7-day average of website visits from a user_activity table.
+
+5) Compare linear regression vs. random forest for predicting housing prices; list pros, cons, and example scikit-learn code.
+

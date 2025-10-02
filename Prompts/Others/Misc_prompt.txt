@@ -1,0 +1,9 @@
+1) Draft a professional email requesting feedback on a GitHub pull request.
+
+2) Generate three LinkedIn post ideas to showcase an AI portfolio project.
+
+3) Outline a step-by-step tutorial for setting up a free Python development environment on Windows.
+
+4) Write a project README template with sections: Overview, Installation, Usage, Contributing, License.
+
+5) Create a checklist for preparing for a technical phone interview in data science.
